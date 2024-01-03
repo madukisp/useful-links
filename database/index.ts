@@ -66,6 +66,7 @@ export { default as defensive_security } from './cybersecurity/defensive_securit
 export { default as malware_analysis } from './cybersecurity/malware_analysis.json'
 export { default as web_security } from './cybersecurity/web_application_security.json'
 //artificial intelligence
+export { default as aifavorite } from './artificial_intelligence/ai-favorites.json'
 export { default as artificialIntelligence } from './artificial_intelligence/artificial-intelligence.json'
 export { default as ml } from './artificial_intelligence/machine-learning.json'
 export { default as dataScience } from './artificial_intelligence/data-science.json'

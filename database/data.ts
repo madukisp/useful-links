@@ -179,6 +179,11 @@ export const sidebarData: ISidebar[] = [
     category: 'ai',
     subcategory: [
       {
+        name: 'ai favorites',
+        url: '/ai-favorites',
+        resources: DB.artificialIntelligence,
+      },
+      {
         name: 'artificial intelligence',
         url: '/artificial-intelligence',
         resources: DB.artificialIntelligence,
