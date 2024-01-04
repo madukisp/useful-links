@@ -101,11 +101,7 @@ export default function Home() {
           <div className="flex flex-col mt-6 justify-center items-start w-96 max-md:w-64">
             <p className="text-md">
               {' '}
-              LinksHub aims to provide developers with access to a wide range of
-              free resources and tools that they can use in their work. These
-              resources include links to free software, libraries, frameworks,
-              and other tools that can be used to build and deploy applications
-              and websites.
+              LinksHub tem como objetivo fornecer aos desenvolvedores acesso a uma ampla variedade de recursos e ferramentas gratuitas que eles podem utilizar em seu trabalho. Esses recursos incluem links para software gratuito, bibliotecas, frameworks e outras ferramentas que podem ser usadas para construir e implantar aplicativos e sites.
             </p>
             <br />
             <p className="text-md">Navigate through menu for</p>

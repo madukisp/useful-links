@@ -7,6 +7,37 @@ export const database: IData[][] = Object.values(DB).map((item: IDBData[]) =>
 
 export const sidebarData: ISidebar[] = [
   {
+    category: 'ai',
+    subcategory: [
+      {
+        name: 'ai favorites',
+        url: '/ai-favorites',
+        resources: DB.artificialIntelligence,
+      },
+      {
+        name: 'artificial intelligence',
+        url: '/artificial-intelligence',
+        resources: DB.artificialIntelligence,
+      },
+      {
+        name: 'machine learning',
+        url: '/machine-learning',
+        resources: DB.machineLearning,
+      },
+      { name: 'data science', url: '/data-science', resources: DB.dataScience },
+      {
+        name: 'deep learning',
+        url: '/deep-learning',
+        resources: DB.deepLearning,
+      },
+      {
+        name: 'NLP',
+        url: '/natural-language-processing',
+        resources: DB.nlp,
+      },
+    ],
+  },
+  {
     category: 'frontend',
     subcategory: [
       { name: 'next js', url: '/next-js', resources: DB.next },
@@ -175,37 +206,7 @@ export const sidebarData: ISidebar[] = [
       },
     ],
   },
-  {
-    category: 'ai',
-    subcategory: [
-      {
-        name: 'ai favorites',
-        url: '/ai-favorites',
-        resources: DB.artificialIntelligence,
-      },
-      {
-        name: 'artificial intelligence',
-        url: '/artificial-intelligence',
-        resources: DB.artificialIntelligence,
-      },
-      {
-        name: 'machine learning',
-        url: '/machine-learning',
-        resources: DB.machineLearning,
-      },
-      { name: 'data science', url: '/data-science', resources: DB.dataScience },
-      {
-        name: 'deep learning',
-        url: '/deep-learning',
-        resources: DB.deepLearning,
-      },
-      {
-        name: 'NLP',
-        url: '/natural-language-processing',
-        resources: DB.nlp,
-      },
-    ],
-  },
+  
   {
     category: 'cyber-security',
     subcategory: [

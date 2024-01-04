@@ -169,3 +169,6 @@ dist
 
 # Runtime data
 *.pid.lock
+
+# Todo list
+notes.md
