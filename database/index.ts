@@ -1,10 +1,11 @@
 //artificial intelligence
-export { default as aifavorite } from './artificial_intelligence/ai-favorites.json'
 export { default as artificialIntelligence } from './artificial_intelligence/artificial-intelligence.json'
 export { default as ml } from './artificial_intelligence/machine-learning.json'
 export { default as dataScience } from './artificial_intelligence/data-science.json'
 export { default as deepLearning } from './artificial_intelligence/deep-learning.json'
 export { default as nlp } from './artificial_intelligence/NLP.json'
+export { default as cursosAi } from './artificial_intelligence/cursos-ai.json';
+
 
 // frontend
 export { default as accessibility } from './frontend/accessibility.json'

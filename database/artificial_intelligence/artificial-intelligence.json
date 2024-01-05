@@ -1,14 +1,14 @@
 [
     {
-        "name": "An Introduction to Artificial Intelligence",
-        "description": "Taught by Prof. Mausam from IIT Delhi, this course offers a self-paced learning experience covering problem modeling, AI models, and algorithms. It prepares students for advanced AI courses with 80+ lectures, video recordings, lecture notes, and practice problems. It's an excellent starting point to explore the basics of AI.",
-        "url": "https://archive.nptel.ac.in/courses/106/102/106102220/",
+        "name": "ChatGpt",
+        "description": "ChatGpt é uma plataforma de conversação alimentada por inteligência artificial para interações naturais e avançadas. Explore a IA na comunicação através deste link.",
+        "url": "https://chat.openai.com/",
         "category": "ai",
         "subcategory": "artificial-intelligence"
-    },
+    },    
     {
         "name": "Hugging Face",
-        "description": "Hugging Face is a community and data science platform that provides tools to build, train, and deploy machine learning models based on open source code and technologies. It is also a place where a broad community of data scientists, researchers, and ML engineers can come together and share ideas, get support, and contribute to open source projects.",
+        "description": "Hugging Face é uma plataforma comunitária de ciência de dados que fornece ferramentas para construir, treinar e implantar modelos de aprendizado de máquina com base em código e tecnologias de código aberto. Também é um lugar onde uma ampla comunidade de cientistas de dados, pesquisadores e engenheiros de ML podem se reunir, compartilhar ideias, obter suporte e contribuir para projetos de código aberto.",
         "url": "https://huggingface.co/",
         "category": "ai",
         "subcategory": "artificial-intelligence"

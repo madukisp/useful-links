@@ -10,11 +10,6 @@ export const sidebarData: ISidebar[] = [
     category: 'ai',
     subcategory: [
       {
-        name: 'ai favorites',
-        url: '/ai-favorites',
-        resources: DB.artificialIntelligence,
-      },
-      {
         name: 'artificial intelligence',
         url: '/artificial-intelligence',
         resources: DB.artificialIntelligence,
@@ -34,6 +29,11 @@ export const sidebarData: ISidebar[] = [
         name: 'NLP',
         url: '/natural-language-processing',
         resources: DB.nlp,
+      },
+      {
+        name: 'cursos ai',
+        url: '/cursosai',
+        resources: DB.cursosAi,
       },
     ],
   },
@@ -129,11 +129,7 @@ export const sidebarData: ISidebar[] = [
       { name: 'Go', url: '/golang', resources: DB.golang },
       { name: 'TypeScript', url: '/typescript', resources: DB.typescript },
       { name: 'Ruby', url: '/ruby', resources: DB.ruby },
-      {
-        name: 'C Programming',
-        url: '/c-programming',
-        resources: DB.CProgramming,
-      },
+      { name: 'C Programming', url: '/c-programming', resources: DB.CProgramming},
       { name: 'C++ Programming', url: '/cpp', resources: DB.cpp },
       { name: 'Java', url: '/java', resources: DB.java },
       { name: 'Kotlin', url: '/kotlin', resources: DB.kotlin },

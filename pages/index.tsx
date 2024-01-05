@@ -104,7 +104,7 @@ export default function Home() {
               LinksHub tem como objetivo fornecer aos desenvolvedores acesso a uma ampla variedade de recursos e ferramentas gratuitas que eles podem utilizar em seu trabalho. Esses recursos incluem links para software gratuito, bibliotecas, frameworks e outras ferramentas que podem ser usadas para construir e implantar aplicativos e sites.
             </p>
             <br />
-            <p className="text-md">Navigate through menu for</p>
+            <p className="text-md">Navegar pelo menu para</p>
             <Link href={subCategoriesUrl[currentIndex]}>
             <TypewriterComponent
               options={{

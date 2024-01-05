@@ -18,6 +18,7 @@ body:
     attributes:
       label: Category
       options:
+        - Cursos
         - Frontend
         - Backend
         - Machine Learning
